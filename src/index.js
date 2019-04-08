@@ -1,1 +1,1 @@
-console.log('Ahoj, jsem startovací projekt!');
+console.log('Star Wars! Pew pew..');
