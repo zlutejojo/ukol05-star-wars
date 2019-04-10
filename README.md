@@ -13,7 +13,7 @@ Nechám na tobě, zda si pro splnění tohoto úkolu vytvoříš nějakou tříd
 
    Použij [Star Wars API](https://swapi.co) a získej z něho a následně zobraz na stránce seznam Star Wars filmů.
 
-   Endpoint pro stažení dat je `https://swapi.co/films/`
+   Endpoint pro stažení dat je `https://swapi.co/api/films/`
 
    Udělej `fetch` na tuto adresu a odpověď ze serveru zpracuj jako JSON data. Na hlavní stránce https://swapi.co/ napiš do vstupního pole `films`, klikni na tlačítko **Request** a podívej se, v jakém formátu seznam filmů dostaneš.
 
