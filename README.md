@@ -75,7 +75,7 @@ Nechám na tobě, zda si pro splnění tohoto úkolu vytvoříš nějakou tříd
 1. Vytvoř si na svém GitHubu nový repozitář a nějak si ho pojmenuj (např. *ukol5-star-wars*).
 2. Při vytváření nového repozitáře **nezaškrtávej** volbu **Initialize this repository with README**.
 3. Objeví se tvůj nový prázdný repozitář, kde máš hned na úvodní stránce několik možností. Vyber poslední z nich **Import code from another repository** - klikni na tlačítko **Import code**.
-4. Na následující obrazovce do pole **Your old repository’s clone URL** zadej `https://github.com/lrolecek/javascript2-start` a klikni na zelené tlačítko **Begin import**.
+4. Na následující obrazovce do pole **Your old repository’s clone URL** zadej `https://github.com/lrolecek/javascript2-ukol05-star-wars` a klikni na zelené tlačítko **Begin import**.
 5. Chvilku to potrvá, ale nakonec se objeví hlášení, že je vše hotovo. Kliknutím na odkaz se jménem tvého repozitáře ho otevřeš.
 6. V repozitáři s naimportovaným kódem klikni na zelené tlačítko **Clone or download** a vyber volbu **Open in desktop**, aby se ti repozitář zkopíroval k tobě na disk.
 7. V aplikaci GitHub Desktop kliknutím na **Open in VS Code** otevřeš složku s projektem v editoru.
